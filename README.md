@@ -1,8 +1,14 @@
 # Handwritten Digit Recognision Model
 ## Deep Learning | Computer Vision | TensorFlow & Keras
 
+<p align="center">
+  <img src="media/Handwritten_digit_recognition_demo.gif" width="600" alt="Live Recognition Demo">
+  <br>
+  <b>Live Demo: Real-time Hand-drawn Digit Classification</b>
+</p>
+
 <h2>📌 Project Overview</h2>
-The project involves the design, implementation, and optimization of a Convolutional Neural Network (CNN) to classify handwritten digits (0-9). Developed in VS Code using Jupyter Notebooks, the project focuses on achieving high classification accuracy through systematic hyperparameter tuning and data-driven model refinement.
+This ongoing project involves the design, implementation, and optimization of a Convolutional Neural Network (CNN) to classify handwritten digits (0-9). Developed in VS Code using Jupyter Notebooks, the project focuses on achieving high classification accuracy through systematic hyperparameter tuning and data-driven model refinement.
 <br />
 <br />
 It was developed as a structured deep dive into the AI/ML technical stack to gain practical proficiency in Computer Vision and Neural Network architecture.
@@ -28,15 +34,20 @@ To maximize the model's predictive power, I performed extensive hyperparameter a
 - Optimizer Selection: Evaluated Adam for faster convergence.
 - Learning Rate Tuning: Adjusted to balance training speed and stability.
 - Batch Size Optimization: Tested various sizes to improve generalization.
-- Results: Achieved a final test accuracy of 98.7%.
+- Results: Achieved a final test accuracy of 98.96%.
 
-<h2> Performance with Real-time Input:</h2>
+<div align="center">
+  <img src="media/TestAccuracy.png" width="600" alt="Model Architecture">
+  <p><i>Figure 1: Final model performance showing 98.96% test accuracy after 50 epochs</i></p>
+</div>
+
+<h2> Live Demonstration:</h2>
 I developed a simple user API to allow users to input handwritten digit images and receive predictions from the model.
 
 The model is failing to classify some of the iput provided on the digital board
 
 <p align="center">
-  <img src="media/demo.gif" width="600" alt="Live Recognition Demo">
+  <img src="media/Handwritten_digit_recognition_demo.gif" width="600" alt="Live Recognition Demo">
   <br>
   <b>Live Demo: Real-time Hand-drawn Digit Classification</b>
 </p>
