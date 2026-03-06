@@ -35,3 +35,9 @@ I developed a simple user API to allow users to input handwritten digit images a
 
 The model is failing to classify some of the iput provided on the digital board
 
+<p align="center">
+  <img src="media/demo.gif" width="600" alt="Live Recognition Demo">
+  <br>
+  <b>Live Demo: Real-time Hand-drawn Digit Classification</b>
+</p>
+
