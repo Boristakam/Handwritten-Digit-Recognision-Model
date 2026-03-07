@@ -1,4 +1,4 @@
-# Handwritten Digit Recognision Model
+# Handwritten Digit Recognition Model
 ## Deep Learning | Computer Vision | TensorFlow & Keras
 
 <p align="center">
@@ -42,7 +42,7 @@ To maximize the model's predictive power, I performed extensive hyperparameter a
 </div>
 
 <h2> Live Demonstration:</h2>
-I developed a functional GUI/API to facilitate real-time user input and model inference. The demo highlights the model's high accuracy while identifying specific edge cases where complex or ambiguous handwriting leads to misclassification.
+I developed a functional GUI/API to facilitate real-time user input and model inference. The demo highlights the model's high accuracy while identifying random instances where ambiguous handwriting leads to misclassification. An issue that im currently investigating.
 
 <p align="center">
   <img src="media/Handwritten_digit_recognition_demo.gif" width="600" alt="Live Recognition Demo">
