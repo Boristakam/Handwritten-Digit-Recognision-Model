@@ -42,9 +42,7 @@ To maximize the model's predictive power, I performed extensive hyperparameter a
 </div>
 
 <h2> Live Demonstration:</h2>
-I developed a simple user API to allow users to input handwritten digit images and receive predictions from the model.
-
-The model is failing to classify some of the iput provided on the digital board
+I developed a functional GUI/API to facilitate real-time user input and model inference. The demo highlights the model's high accuracy while identifying specific edge cases where complex or ambiguous handwriting leads to misclassification.
 
 <p align="center">
   <img src="media/Handwritten_digit_recognition_demo.gif" width="600" alt="Live Recognition Demo">
