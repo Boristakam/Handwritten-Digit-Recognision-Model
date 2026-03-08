@@ -8,7 +8,7 @@
 </p>
 
 <h2>📌 Project Overview</h2>
-This ongoing project involves the design, implementation, and optimization of a Convolutional Neural Network (CNN) to classify handwritten digits (0-9). Developed in VS Code using Jupyter Notebooks, the project focuses on achieving high classification accuracy through systematic hyperparameter tuning and data-driven model refinement.
+This ongoing personal project involves the design, implementation, and optimization of a Convolutional Neural Network (CNN) to classify handwritten digits (0-9). Developed in VS Code using Jupyter Notebooks, the project focuses on achieving high classification accuracy through systematic hyperparameter tuning and data-driven model refinement.
 <br />
 <br />
 It was developed as a structured deep dive into the AI/ML technical stack to gain practical proficiency in Computer Vision and Neural Network architecture.
