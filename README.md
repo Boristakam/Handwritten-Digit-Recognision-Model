@@ -45,6 +45,10 @@ To maximize the model's predictive power, I performed extensive hyperparameter a
 I developed a functional GUI/API to facilitate real-time user input and model inference. The demo highlights the model's high accuracy while identifying random instances where ambiguous handwriting leads to misclassification. An issue that im currently investigating.
 
 <p align="center">
+  <img src="media/demo.png" width="600" alt="Live Recognition Demo">
+</p>
+
+<p align="center">
   <img src="media/Handwritten_digit_recognition_demo.gif" width="600" alt="Live Recognition Demo">
   <br>
   <b>Live Demo: Real-time Hand-drawn Digit Classification</b>
